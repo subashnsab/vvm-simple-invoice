@@ -1,0 +1,8 @@
+{
+  "name": "VVM SMART ERP",
+  "description": "A responsive billing and invoice manager that tracks orders, calculates taxes, and syncs invoices directly with cloud spreadsheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
